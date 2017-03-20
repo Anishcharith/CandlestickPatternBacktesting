@@ -1,2 +1,1 @@
 # CandlestickPatternBacktesting
-Nin shaata
